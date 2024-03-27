@@ -1,0 +1,9 @@
+{
+	"name": "appfactory443444",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "66db1dfe-aa14-4ca8-bef5-fa51e1bbc0e4",
+		"tenantId": "3379c9ef-75c0-4ec0-82bd-61d22fe81a80"
+	}
+}
